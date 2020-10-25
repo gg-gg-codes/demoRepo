@@ -1,6 +1,11 @@
+
 "hello world"
 changes1
 "new changes -> Hi world, this line is again getting changed to see"
 changes 2
 "another changes-> bye world"
+<<<<<<< HEAD
 changes 3
+=======
+
+>>>>>>> 505531671805b99578e7d7a6e40bede8dd5f63e5
