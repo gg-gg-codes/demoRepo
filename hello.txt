@@ -1,6 +1,19 @@
 
 "hello world"
+<<<<<<< HEAD
 some more changes 1
+=======
+changes1
+>>>>>>> demo
 "new changes -> Hi world, this line is again getting changed to see"
+changes 2
 "another changes-> bye world"
+<<<<<<< HEAD
 some more changes 2
+=======
+<<<<<<< HEAD
+changes 3
+=======
+
+>>>>>>> 505531671805b99578e7d7a6e40bede8dd5f63e5
+>>>>>>> demo
